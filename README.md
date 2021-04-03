@@ -15,7 +15,11 @@ https://discomap.eea.europa.eu/map/fme/AirQualityExport.htm
 
 ## Updates
 
-### 04.01.2021
+### 03.04.2021
+
+- Plots about PM10 values by county and mobility changes are saved
+
+### 01.04.2021
 
 - PM10 dataset downloaded and merged
 - ISO codes of counties translated from WGS'84 coordinates
@@ -23,7 +27,7 @@ https://discomap.eea.europa.eu/map/fme/AirQualityExport.htm
 - Lot of counties data are missing
 - Raw data saved
 
-### 03.29.2021
+### 29.03.2021
 - Repo is created, raw data are copied
 
 
