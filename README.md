@@ -15,6 +15,13 @@ https://discomap.eea.europa.eu/map/fme/AirQualityExport.htm
 
 ## Updates
 
+### 05.04.2021
+
+- Daily mean values per stations added
+- Figures per county generated for PM10, PM2.5, O3
+- Need to check: Decrease of O3 and increase of PM10 show correlation among covid cases? 
+- Need to get: More data of station's
+ 
 ### 03.04.2021
 
 - Plots about PM10 values by county and mobility changes are saved
