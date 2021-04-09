@@ -13,7 +13,16 @@ http://www.levegominoseg.hu/automata-merohalozat
 
 https://discomap.eea.europa.eu/map/fme/AirQualityExport.htm
 
+### Scanned documents convert to xlsx
+
+https://online2pdf.com/convert-pdf-to-xls-with-ocr#
+
 ## Updates
+
+### 09.04.2021
+
+- Air qulaity records from all stations of Hungary received from OMSZ (Under processing)
+- Dummy code for reading in was written
 
 ### 05.04.2021
 
