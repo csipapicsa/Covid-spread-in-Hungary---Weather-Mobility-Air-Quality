@@ -19,6 +19,10 @@ https://online2pdf.com/convert-pdf-to-xls-with-ocr#
 
 ## Updates
 
+### 03.10.2022
+- Free API for air quality
+https://aqicn.org/data-platform/token/
+
 ### 09.04.2021
 
 - Air qulaity records from all stations of Hungary received from OMSZ (Under processing)
